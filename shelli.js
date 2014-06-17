@@ -1,6 +1,6 @@
 /** 
  * @author Abhishek Kumar
- * @license (c) Abhishek Kumar 2014.
+ * @license This work is licensed under a Creative Commons Attribution 4.0 International License.
  * @pre-requisite 
  *  1. download and install nodejs
  *  2. go to the required directory and run these commands
